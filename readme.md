@@ -1,4 +1,4 @@
-quick and dirty test using [microsoft's omniparser](https://github.com/microsoft/OmniParser) + llms to confidently point at a given user interface
+quick and dirty test using [microsoft's omniparser](https://github.com/microsoft/OmniParser) + llms to (somewhat) confidently point at a given user interface
 
 notes: this is pretty slow
 
